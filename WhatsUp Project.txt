@@ -9,3 +9,7 @@ WhatsUp Project Code:
 4.Attachments(Image, Audio, Video) code
 
 5.Hiding the last seen
+
+Adding the audio call feature 
+
+Adding the vidoe call feature
